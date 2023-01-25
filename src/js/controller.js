@@ -87,6 +87,6 @@ const init = function () {
   paginationView.addHandlerClick(controlPagination);
   bookmarksView.addHandlerRender(controlBookmarks);
   addRecipeView.addHandlerUpload(controlAddRecipe);
-  console.log('Hello from forkify app');
+  console.log('Hello world');
 };
 init();
